@@ -1,0 +1,112 @@
+.navbar {
+	padding: 30px;
+}
+
+.navbar > li {
+	display: inline-block;
+	margin-left: 30px;
+}
+
+.navbar >li >a {
+	font-size: 30px;
+	color: green;
+}
+
+ /*content starts*/
+.main-section {
+	background-image: url("images/cherry11.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 530px;
+}
+
+.main-content {
+	padding: 30px;
+}
+
+.main-content > h1 {
+	font-size: 30px;
+	color: greenyellow;
+	font-weight: bold;
+}
+/*content end*/
+
+/*article starts*/
+.article-section {
+	padding: 10px 20px;
+	margin-bottom: 20px;
+
+}
+
+
+
+.first {
+	font-size: 25px;
+	color: purple;
+}
+
+
+
+article {
+	width: 90%;
+	color: mediumpurple;
+}
+
+.article-title {
+	font-size: 32px;
+	font-weight: bold;
+	color: black;
+	margin-bottom: 30px;
+}
+
+p {
+	font-size: 20px;
+	max-width: 850px;
+
+}
+/*article end*/
+
+/*gallery starts*/
+.gallery {
+	width: 100%;
+
+}
+
+.gallery > img {
+	display: inline-block;
+	width: 550px;
+}
+/*gallery end*/
+
+/*cherry starts*/
+.cherry-title {
+	font-size: 30px;
+	font-weight: bold;
+	color: rebeccapurple;
+	margin-bottom: 30px;
+
+}
+
+h4 {
+	max-width: 850px;
+	color: deeppink;
+}
+
+h5 {
+	max-width: 850px;
+	color: deeppink;
+}
+
+.four {
+	margin-bottom: 15px;
+}
+
+.five {
+	margin-bottom: 15px;
+}
+
+.six {
+	margin-bottom: 15px;
+}
+/*cherry end*/
